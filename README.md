@@ -11,7 +11,7 @@ A structured daily guide to mastering DOM manipulation, modern JavaScript, and f
 |------|----------------------------------------------------------------------|---------------------------------------------|  
 | 1    | Select and log elements by `id`, `class`, and `tagName`.             | `getElementById`, `querySelector`, `querySelectorAll` |  
 | 2    | Change text/content of elements.                                     | `innerText`, `textContent`, `innerHTML`     |  
-| 3    | Modify element styles (e.g., isibcolor, vility).                     | `element.style`, `classList.add/remove`     |  
+| 3    | Modify element styles (e.g., color, visibility).                     | `element.style`, `classList.add/remove`     |  
 | 4    | Create and append new elements dynamically.                          | `createElement`, `appendChild`              |  
 | 5    | Handle button click events.                                          | `addEventListener`                          |  
 | 6    | Toggle a CSS class on click (e.g., dark mode).                       | `classList.toggle`                          |  
